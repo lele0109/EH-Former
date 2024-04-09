@@ -8,7 +8,7 @@ An official code for EH-former (submitted to Information Fusion)
 ## Requirements<br />
 - Python 3.7
 - Pytorch 1.8.0
-- baal 1.6.0
+- requirement.txt
 ****
 
 ## Datasets
