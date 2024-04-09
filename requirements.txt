@@ -1,0 +1,10 @@
+torch==1.8.0+cu111
+numpy==1.21.4
+matplotlib==3.5.0
+Pillow==8.4.0
+torchvision==0.9.0+cu111
+tensorboard_logger==0.1.0
+scikit-learn==1.0.2
+MedPy==0.4.0
+torchsnooper==0.8
+baal==1.6.0
